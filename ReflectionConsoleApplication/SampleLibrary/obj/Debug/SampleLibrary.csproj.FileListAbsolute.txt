@@ -1,0 +1,7 @@
+E:\Programming\#mentoring2016\ReflectionConsoleApplication\SampleLibrary\bin\Debug\SampleLibrary.dll
+E:\Programming\#mentoring2016\ReflectionConsoleApplication\SampleLibrary\bin\Debug\SampleLibrary.pdb
+E:\Programming\#mentoring2016\ReflectionConsoleApplication\SampleLibrary\obj\Debug\SampleLibrary.csprojResolveAssemblyReference.cache
+E:\Programming\#mentoring2016\ReflectionConsoleApplication\SampleLibrary\obj\Debug\SampleLibrary.dll
+E:\Programming\#mentoring2016\ReflectionConsoleApplication\SampleLibrary\obj\Debug\SampleLibrary.pdb
+E:\Programming\#mentoring2016\ReflectionConsoleApplication\SampleLibrary\bin\Debug\SampleInfrastructure.dll
+E:\Programming\#mentoring2016\ReflectionConsoleApplication\SampleLibrary\bin\Debug\SampleInfrastructure.pdb

@@ -1,0 +1,4 @@
+E:\Programming\#mentoring2016\ReflectionConsoleApplication\SampleInfrastructure\bin\Debug\SampleInfrastructure.dll
+E:\Programming\#mentoring2016\ReflectionConsoleApplication\SampleInfrastructure\bin\Debug\SampleInfrastructure.pdb
+E:\Programming\#mentoring2016\ReflectionConsoleApplication\SampleInfrastructure\obj\Debug\SampleInfrastructure.dll
+E:\Programming\#mentoring2016\ReflectionConsoleApplication\SampleInfrastructure\obj\Debug\SampleInfrastructure.pdb

@@ -1,0 +1,8 @@
+E:\Programming\#mentoring2016\ReflectionConsoleApplication\ReflectionConsoleApplication\bin\Debug\ReflectionConsoleApplication.exe.config
+E:\Programming\#mentoring2016\ReflectionConsoleApplication\ReflectionConsoleApplication\bin\Debug\ReflectionConsoleApplication.exe
+E:\Programming\#mentoring2016\ReflectionConsoleApplication\ReflectionConsoleApplication\bin\Debug\ReflectionConsoleApplication.pdb
+E:\Programming\#mentoring2016\ReflectionConsoleApplication\ReflectionConsoleApplication\obj\Debug\ReflectionConsoleApplication.csprojResolveAssemblyReference.cache
+E:\Programming\#mentoring2016\ReflectionConsoleApplication\ReflectionConsoleApplication\obj\Debug\ReflectionConsoleApplication.exe
+E:\Programming\#mentoring2016\ReflectionConsoleApplication\ReflectionConsoleApplication\obj\Debug\ReflectionConsoleApplication.pdb
+E:\Programming\#mentoring2016\ReflectionConsoleApplication\ReflectionConsoleApplication\bin\Debug\SampleInfrastructure.dll
+E:\Programming\#mentoring2016\ReflectionConsoleApplication\ReflectionConsoleApplication\bin\Debug\SampleInfrastructure.pdb
